@@ -1,6 +1,6 @@
-Hi there 👋
+Hi there 👋\
 I'm Elisa, a master student in sports technology at KTH. 
-I'm interested in anything sports technology related, especially to its application to elite sports.
+I'm interested in anything sports technology related, especially to its applications to elite sports.
 I’m currently working on various study-related projects.
 
 \
