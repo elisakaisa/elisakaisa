@@ -1,7 +1,8 @@
 Hi there 👋\
 I'm Elisa, a master student in sports technology at KTH. 
 I'm interested in anything sports technology related, especially to its applications to elite sports.
-I’m currently working on various study-related projects.
+I’m currently working on various study-related projects, which include mobile applications for Android and machine learning.
+I'm learning react native and improving my Javascript skills.
 
 \
 Projects I've collaborated on during my master's:
