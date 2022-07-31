@@ -21,10 +21,11 @@ Projects I've collaborated on:
 \
 Own projects:
 <ul>
-  <li>Weather app: https://github.com/elisakaisa/WeatherApp </li>
-  <li>App to record heart rate data from a Polar H10: https://github.com/elisakaisa/PolarH10 </li>
-  <li>Route planner app for Stockholm's public transport: https://github.com/elisakaisa/SL_trip_planner</li>
-  <li>Playing around with Wordle data: https://github.com/elisakaisa/Wordle_analysis
+  <li>Weather app (java, android): https://github.com/elisakaisa/WeatherApp </li>
+  <li>App to record heart rate data from a Polar H10 (java, android): https://github.com/elisakaisa/PolarH10 </li>
+  <li>Route planner app for Stockholm's public transport (java, android): https://github.com/elisakaisa/SL_trip_planner</li>
+  <li>Playing around with Wordle data (python): https://github.com/elisakaisa/Wordle_analysis</li>
+  <li>Single page web app (javascript, react) to keep track of the places I want to visit in Stockholm: <a href="https://github.com/elisakaisa/ToVisitWebApp">server side</a> & <a href="https://github.com/elisakaisa/ToVisitWebApp_clientSide">client side</a></li>
 </ul>
 
 ### Skills
