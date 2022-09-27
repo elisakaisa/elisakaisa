@@ -3,30 +3,32 @@ Hi 👋 My name is Elisa Perini
 
 MSc sports technology student at KTH
 ------------------------------------
-I'm interested in anything sports technology related, especially to its applications to elite sports. I'm also very interested in mobile application development on Android.
-I’m currently working on various study-related projects, which include mobile applications, machine learning and databases.<br>
-In my freetime, I'm learning full-stack web development, playing around with a Polar H10 sensor and mobile applications (Android-Java).<br>
-Feel free to reach me at: elisa.k.perini(@)gmail.com
 
-\
-Projects I've collaborated on:
-<ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.epjjve.ergoarmmeter&gl=SE">ErgoArmMeter</a>, on google playstore, a mobile application to measure arm elevation, developed in collaboration with Karolinska & KTH
-  <li>Getting ground contact times in sprinting by using Suunto's movesense IMU: https://github.com/jitseve/IM4UWebApp & https://github.com/jitseve/idrottsMatta4U </li>
-  <li>Training diary app (android) for crossfit: https://github.com/jitseve/XFran </li>
-  <li>App (android) that connects to an external IMU sensor: https://github.com/jitseve/MoveAble </li>
-  <li>App (android) with an n-back training game: https://github.com/jitseve/Memeolise </li>
- </ul>
+### About me
+- :woman_student: <b>BSc Health sience and technology</b> from ETHZ, currently doing my <b>MSc in sports technology</b> at KTH
+- :mag: interested in <b>android development</b>, <b>web development</b> (especially back-end) and in any application of technology to sports
+- :chart_with_upwards_trend: currently working on various study-related projects, which include mobile applications, machine learning and databases
+- :computer: most comfortable in java, python and javascript
+- :running_woman: In my freetime, I'm improving my android and web development skills or running/skiing/lifting weights
+- :envelope: Feel free to reach me at: elisa.k.perini(@)gmail.com
 
-\
-Own projects:
-<ul>
-  <li>Weather app (java, android): https://github.com/elisakaisa/WeatherApp </li>
-  <li>App to record heart rate data from a Polar H10 (java, android): https://github.com/elisakaisa/PolarH10 </li>
-  <li>Route planner app for Stockholm's public transport (java, android): https://github.com/elisakaisa/SL_trip_planner</li>
-  <li>Playing around with Wordle data (python): https://github.com/elisakaisa/Wordle_analysis</li>
-  <li>Single page web app (javascript, react) to keep track of the places I want to visit in Stockholm: <a href="https://github.com/elisakaisa/ToVisitWebApp">server side</a> & <a href="https://github.com/elisakaisa/ToVisitWebApp_clientSide">client side</a></li>
-</ul>
+### Projects I've collaborated on:
+
+- <a href="https://play.google.com/store/apps/details?id=com.epjjve.ergoarmmeter&gl=SE">ErgoArmMeter</a>, on google playstore, a mobile application to measure arm elevation, developed in collaboration with Karolinska & KTH
+- Getting ground contact times in sprinting by using Suunto's movesense IMU: https://github.com/jitseve/IM4UWebApp & https://github.com/jitseve/idrottsMatta4U
+- Training diary app (android) for crossfit: https://github.com/jitseve/XFran
+- App (android) that connects to an external IMU sensor: https://github.com/jitseve/MoveAble
+- App (android) with an n-back training game: https://github.com/jitseve/Memeolise
+
+### Own projects:
+
+- Weather app (java, android): https://github.com/elisakaisa/WeatherApp
+- App to record heart rate data from a Polar H10 (java, android): https://github.com/elisakaisa/PolarH10
+- Route planner app for Stockholm's public transport (java, android): https://github.com/elisakaisa/SL_trip_planner
+- Playing around with Wordle data (python): https://github.com/elisakaisa/Wordle_analysis
+- Single page web app (javascript, react) to keep track of the places I want to visit in Stockholm: <a href="https://github.com/elisakaisa/ToVisitWebApp">server side</a> & <a href="https://github.com/elisakaisa/ToVisitWebApp_clientSide">client side</a>
+
+Scroll down to see my favourites!
 
 ### Skills
 
@@ -50,7 +52,7 @@ Own projects:
 
 <p align="left"> <a href="https://www.github.com/elisakaisa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elisa-perini-2759ba227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>Repositories I'm particularly proud of</b>
+### Projects I'm particularly proud of
 
 <div width="100%" align="center"><a href="https://github.com/elisakaisa/SL_trip_planner" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elisakaisa&repo=SL_trip_planner&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/elisakaisa/ToVisitWebApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elisakaisa&repo=ToVisitWebApp&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
