@@ -28,8 +28,6 @@ MSc sports technology student at KTH
 - Playing around with Wordle data (python): https://github.com/elisakaisa/Wordle_analysis
 - Single page web app (javascript, react) to keep track of the places I want to visit in Stockholm: <a href="https://github.com/elisakaisa/ToVisitWebApp">server side</a> & <a href="https://github.com/elisakaisa/ToVisitWebApp_clientSide">client side</a>
 
-Scroll down to see my favourites!
-
 ### Skills
 
 <p align="left">
@@ -51,11 +49,3 @@ Scroll down to see my favourites!
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/elisakaisa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elisa-perini-2759ba227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Projects I'm particularly proud of
-
-<div width="100%" align="center"><a href="https://github.com/elisakaisa/SL_trip_planner" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elisakaisa&repo=SL_trip_planner&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/elisakaisa/ToVisitWebApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elisakaisa&repo=ToVisitWebApp&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/elisakaisa/ToVisitWebApp_clientSide" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elisakaisa&repo=ToVisitWebApp_clientSide&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/elisakaisa/PolarH10" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elisakaisa&repo=PolarH10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br />
