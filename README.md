@@ -5,7 +5,7 @@ MSc sports technology student at KTH
 ------------------------------------
 
 ### About me
-- :woman_student: <b>BSc Health sience and technology</b> from ETHZ, currently doing my <b>MSc in sports technology</b> at KTH
+- :woman_student: <b>BSc Health science and technology</b> from ETHZ, currently doing my <b>MSc in sports technology</b> at KTH
 - :mag: interested in <b>android development</b>, <b>web development</b> (especially back-end) and in any application of technology to sports
 - :chart_with_upwards_trend: currently working on various study-related projects, which include mobile applications, machine learning and databases
 - :computer: most comfortable in java, python and javascript
@@ -19,6 +19,7 @@ MSc sports technology student at KTH
 - Training diary app (android) for crossfit: https://github.com/jitseve/XFran
 - App (android) that connects to an external IMU sensor: https://github.com/jitseve/MoveAble
 - App (android) with an n-back training game: https://github.com/jitseve/Memeolise
+- App (Android) with a system for an event organising company: https://github.com/elisakaisa/SEP
 
 ### Own projects:
 
