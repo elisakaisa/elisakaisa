@@ -6,28 +6,35 @@ MSc sports technology student at KTH
 
 ### About me
 - :woman_student: <b>BSc Health science and technology</b> from ETHZ, currently doing my <b>MSc in sports technology</b> at KTH
-- :mag: interested in <b>android development</b>, <b>web development</b> (especially back-end) and in any application of technology to sports
-- :chart_with_upwards_trend: currently working on various study-related projects, which include mobile applications, machine learning and databases
+- :mag: interested in <b>android development</b>, <b>web development</b> (especially back-end), the IT-field in general, and in any application of technology to sports
+- :chart_with_upwards_trend: currently working on my thesis, which is about using 2D pose detection on a mobbile phone to analyse a swing in golf
 - :computer: most comfortable in java, python and javascript
-- :running_woman: In my freetime, I'm improving my android and web development skills or running/skiing/lifting weights
+- :running_woman: In my freetime, I'm nerding on some new framework or library, or running/skiing/lifting weights
 - :envelope: Feel free to reach me at: elisa.k.perini(@)gmail.com
 
 ### Projects I've collaborated on:
 
 - <a href="https://play.google.com/store/apps/details?id=com.epjjve.ergoarmmeter&gl=SE">ErgoArmMeter</a>, on google playstore, a mobile application to measure arm elevation, developed in collaboration with Karolinska & KTH
-- Getting ground contact times in sprinting by using Suunto's movesense IMU: https://github.com/jitseve/IM4UWebApp & https://github.com/jitseve/idrottsMatta4U
+- Getting ground contact times in sprinting by using Suunto's movesense IMU (python, flask): <a href="https://github.com/jitseve/IM4UWebApp">webApp</a> & <a href="https://github.com/jitseve/idrottsMatta4U">data-analysis</a>
 - Training diary app (android) for crossfit: https://github.com/jitseve/XFran
 - App (android) that connects to an external IMU sensor: https://github.com/jitseve/MoveAble
 - App (android) with an n-back training game: https://github.com/jitseve/Memeolise
 - App (Android) with a system for an event organising company: https://github.com/elisakaisa/SEP
+- WODPacer: app (java, andoid) to help with pacing in crossfit-like sports with a machine learning model (not available publicly)
+- Firestone: an implementation of the backend of the card game hearthstone in clojure (not available publicly)
 
 ### Own projects:
 
-- Weather app (java, android): https://github.com/elisakaisa/WeatherApp
+- Thesis project: mobile application (kotlin) to detect the pose of a golfer during swing, a backend (python, flask) to turn an existing phase detection machine learning model into a restApi, and subsequent data anaylsis (not available publicly)
+- <a href="https://github.com/elisakaisa/WeatherApp">Weather mobile app</a> (java, android)
 - App to record heart rate data from a Polar H10 (java, android): https://github.com/elisakaisa/PolarH10
-- Route planner app for Stockholm's public transport (java, android): https://github.com/elisakaisa/SL_trip_planner
+- <a href="https://github.com/elisakaisa/SL_trip_planner">Route planner app</a> for Stockholm's public transport (java, android)
 - Playing around with Wordle data (python): https://github.com/elisakaisa/Wordle_analysis
-- Single page web app (javascript, react) to keep track of the places I want to visit in Stockholm: <a href="https://github.com/elisakaisa/ToVisitWebApp">server side</a> & <a href="https://github.com/elisakaisa/ToVisitWebApp_clientSide">client side</a>
+- Turning an sql database into a restApi (python, sqlite3, flask): https://github.com/elisakaisa/MondialSqlFlaskApp
+- Single page web app (javascript, react, node) to keep track of the places I want to visit in Stockholm: <a href="https://github.com/elisakaisa/ToVisitWebApp">server side</a> & <a href="https://github.com/elisakaisa/ToVisitWebApp_clientSide">client side</a>
+- <a href="https://github.com/elisakaisa/meal-spinner">Meal spinner</a>: a slot machine style app (java, android) to generate meal ideas for when lacking cooking inspiration
+- A machine learning model for human activity recognition (python): https://github.com/elisakaisa/HumanActivityRecognition
+- And multiple other smaller projects to play around with different libraries, frameworks and fun stuff...
 
 ### Skills
 
@@ -35,6 +42,7 @@ MSc sports technology student at KTH
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
