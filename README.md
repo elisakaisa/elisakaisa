@@ -1,14 +1,11 @@
 Hi 👋 My name is Elisa Perini
 =============================
 
-MSc sports technology student at KTH
-------------------------------------
-
 ### About me
-- :woman_student: <b>BSc Health science and technology</b> from ETHZ, currently doing my <b>MSc in sports technology</b> at KTH
-- :mag: interested in <b>android development</b>, <b>web development</b> (especially back-end), the IT-field in general, and in any application of technology to sports
-- :chart_with_upwards_trend: currently working on my thesis, which is about using 2D pose detection on a mobbile phone to analyse a swing in golf
-- :computer: most comfortable in java, python and javascript
+- 👩‍💻 <b>.NET developer</b> @ IF P&C
+- :woman_student: <b>BSc Health science and technology</b> from ETHZ,  <b>MSc in sports technology</b> at KTH, graduated in 2023
+- :mag: interested in <b>web development</b>, <b>android development</b>, the IT-field in general, and in any application of technology to sports
+- :computer: most comfortable in c#, javascript/typescript, java and python
 - :running_woman: In my freetime, I'm nerding on some new framework or library, or running/skiing/lifting weights
 - :envelope: Feel free to reach me at: elisa.k.perini(@)gmail.com
 
