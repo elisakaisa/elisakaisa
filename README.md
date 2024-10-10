@@ -2,11 +2,11 @@ Hi 👋 My name is Elisa Perini
 =============================
 
 ### About me
-- 👩‍💻 <b>.NET developer</b> @ IF P&C
+- 👩‍💻 <b>Software developer</b> @ IF P&C, working mainly with a mix of .NET apps (from oldfer monoliths to newer microservices) in a hybrid-cloud environment (on-prem and Azure)
 - :woman_student: <b>BSc Health science and technology</b> from ETHZ,  <b>MSc in sports technology</b> at KTH, graduated in 2023
-- :mag: interested in <b>web development</b>, <b>android development</b>, the IT-field in general, and in any application of technology to sports
+- :mag: soft spot for in <b>back-end development</b>, <b>cloud</b>, <b>android development</b>, and for any application of technology to sports
 - :computer: most comfortable in c#, javascript/typescript, java and python
-- :running_woman: In my freetime, I'm nerding on some new framework or library, or running/skiing/lifting weights
+- :running_woman: In my freetime, I'm reading or running/skiing/lifting weights
 - :envelope: Feel free to reach me at: elisa.k.perini(@)gmail.com
 
 ### Projects I've collaborated on:
